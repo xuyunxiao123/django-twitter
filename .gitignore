@@ -1,3 +1,8 @@
+.idea/
+.vagrant/
+bionic64.box
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
